@@ -21,7 +21,8 @@ You win the game by defeating all enemies shooting at you, plain and simple. You
 
 ### Link to Game
 
-https://github.com/draytonbb9/Space-War-2-dbb.git
+[https://github.com/draytonbb9/Space-War-2-dbb.git](https://www.google.com)
+
 
 ### Credits
 
