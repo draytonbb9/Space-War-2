@@ -16,3 +16,7 @@
 ## Scoring & How to Win
 
 ### Credits
+
+ship assets
+	https://kenney.nl/assets/space-shooter-extension
+Along with a bunch of random Google Images
