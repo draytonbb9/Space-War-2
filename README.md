@@ -18,6 +18,10 @@ You win the game by defeating all enemies shooting at you, plain and simple. You
 
 ## Gameplay 
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Gameplay Photo 2")
+
 
 ### Link to Game
 
