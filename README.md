@@ -18,9 +18,9 @@ You win the game by defeating all enemies shooting at you, plain and simple. You
 
 ## Gameplay 
 
-![alt text](assets/Screenshot (1).png "Gameplay Photo 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/assets/Screenshot (1).png "Gameplay Photo 1")
 
-![alt text](assets/Screenshot (2).png "Gameplay Photo 2")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/assets/Screenshot (2).png "Gameplay Photo 2")
 
 
 ### Link to Game
