@@ -1,6 +1,6 @@
 # Drayton Bohnstadt - Space War
 
-## CONTROLS:
+## Controls:
    CONTROLLER Required:
         Left Stick - Move left, right, up, down
         A - Shoot
